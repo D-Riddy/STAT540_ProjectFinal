@@ -13,3 +13,15 @@ Polling data plays a crucial role in shaping public perception and political str
 
 ## Project Structure
 The project is organized into the following directories:
+
+
+## How to Run
+1. Clone the repository to your local machine.
+2. Open `ProjectFindings.Rmd` in RStudio.
+3. Install the required packages: `ggplot2` and `dplyr`.
+4. Knit the file to generate the final HTML report.
+
+## Contact
+Author: David A. Riddy  
+Date: November 2024
+
