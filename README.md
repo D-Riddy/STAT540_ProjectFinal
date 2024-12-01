@@ -13,7 +13,11 @@ Polling data plays a crucial role in shaping public perception and political str
 
 ## Project Structure
 The project is organized into the following directories:
-
+├── README.md # Overview of the project 
+├── code/ # Scripts for data loading, wrangling, analysis, and visualization 
+├── data/ # Raw and processed data │ ├── original/ # Original datasets │ └── derived/ # Cleaned and transformed datasets 
+└── report/ # Final report and findings
+├── ProjectFindings.Rmd # R Markdown file
 
 ## How to Run
 1. Clone the repository to your local machine.
